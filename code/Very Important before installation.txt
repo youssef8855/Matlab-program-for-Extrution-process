@@ -1,0 +1,2 @@
+Place the attached Results excel file on the desktop in case of installation or in the test file in case of test
+In both cases, it must be before the first run
